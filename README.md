@@ -13,8 +13,8 @@ This is a self-site built with HTML, CSS, and JavaScript that is not hosted outs
 ## Viewing the Blog
 Open `index.html` in your browser (if you used IntelliJ for this project, Firefox might struggle with opening this file.)
 
-### Requirements
-- `Node.js` is required to run the `save-server.js` file, though it is not required for viewing the website itself.
+## Requirements
+`Node.js` is required to run the `save-server.js` file, though it is not required for viewing the website itself.
 
 ## Backups
 To back up the whole blog, copy the `posts.js` (or the entire folder) to an external drive, cloud storage, etc.
